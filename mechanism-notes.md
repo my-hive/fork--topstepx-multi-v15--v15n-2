@@ -52,3 +52,10 @@ the two are candidates for combination on different symbols.
   inside MNQ. NQ is the honest proxy and it fails 2010-2016.
 * Fold pass rates stay low because $3,000 in 30 sessions needs >$100/day per account;
   3 MNQ contracts at the observed edge give ~$15/day.
+
+## Verdict (v15n-2)
+Exp7 (SHA 2d2eb5c0) 20-seed side null p=0.4286: no directional evidence. Long-only MNQ
+10:00-14:30 earns +6,080 over the same window, so the rule mostly harvests MNQ's 2019-2023
+long drift (2023 +6.7k, 2021 +2.7k) rather than sign prediction. NQ same rule 2010-2023 fails
+era blocks. MES/cross-symbol variants (exp9 filter, exp10 follower) worse. Not a finalist.
+Stopping: best dev_score 0.2988 from exp7; no further mechanism with positive-all-era evidence.
