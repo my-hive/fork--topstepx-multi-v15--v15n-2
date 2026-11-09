@@ -59,3 +59,6 @@ Exp7 (SHA 2d2eb5c0) 20-seed side null p=0.4286: no directional evidence. Long-on
 long drift (2023 +6.7k, 2021 +2.7k) rather than sign prediction. NQ same rule 2010-2023 fails
 era blocks. MES/cross-symbol variants (exp9 filter, exp10 follower) worse. Not a finalist.
 Stopping: best dev_score 0.2988 from exp7; no further mechanism with positive-all-era evidence.
+
+## Offline pair scan (exp12)
+Dollar-neutral relative-value (stronger pre-open leg long, weaker short) on equity-index and cross-asset pairs: none reach pos_yr>=0.7 with all 3 era blocks positive. Best ES/NQ/YM +45.6k, pos_yr 0.64, 2020 -16.7k. Stop: no improvement since exp7.
